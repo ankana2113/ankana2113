@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankana2113
 - 👀 I’m interested in Machine Learning, Computational Maths and Algorithms and am currently doing research in related fields.
-- 🌱 I’m currently studying as a first year Undergraduate student in the Deparment of Mathematics in IIT Kharagpur in the branch of MAthematics and Computing.
-- 💞️ I’m looking to collaborate on macgine learning projects
+- 🌱 I’m currently studying as a first year Undergraduate student in the Deparment of Mathematics in IIT Kharagpur in the branch of Mathematics and Computing.
+- 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: ...
