@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ankana2113
+- 👋 Hi, I’m Ankana Pari
 - 👀 I’m interested in Machine Learning, Computational Maths and Algorithms and am currently doing research in related fields.
-- 🌱 I’m currently studying as a first year Undergraduate student in the Deparment of Mathematics in IIT Kharagpur in the branch of Mathematics and Computing.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 🌱 I’m currently an upcoming 2nd year Undergraduate student in the Deparment of Mathematics in IIT Kharagpur in the branch of Mathematics and Computing.
+- 💞️ I’m looking to collaborate on Machine learning projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: ...
