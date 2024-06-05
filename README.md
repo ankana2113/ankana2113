@@ -48,7 +48,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankana2113&theme=nightowl&hide_border=true" alt="ankana2113's GitHub Stats" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankana2113&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 ankana2113/ankana2113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
