@@ -1,13 +1,13 @@
 -<div align="center">
-	<h1>👋 Hi, myself Ankana Pari</h1>
+	<h1>👋 Hi, this is Ankana!</h1>
  </div>
--  # <center> 👋 Hi, myself Ankana Pari</center>
-- 👀 I’m interested in Machine Learning, Computational Maths and Algorithms, Blockchain and a lot more!!
-- 🌱 Currently an upcoming 2nd year Undergraduate student in the Deparment of Mathematics in IIT Kharagpur in the branch of Mathematics and Computing.
-- 💞️ Looking to collaborate on a variety of open source, related projects, connect with some cool people and have fun along the way.
-- 🌱 At the moment I'm researching on Neural Networks and their evolution.
-- 📫 How to reach me: ankanapari2023@gmail.com
-- 😄 Pronouns: She/Her
+- 👀 I’m interested in Machine Learning, Computational Maths and Algorithms, Blockchain and a lot more!!<br>
+- 🌱 Currently an upcoming 2nd year Undergraduate student in the Deparment of Mathematics in IIT Kharagpur in the branch of Mathematics and Computing.<br>
+- 💞️ Looking to collaborate on a variety of open source, related projects, connect with some cool people and have fun along the way.<br>
+- 🌱 At the moment I'm researching on Neural Networks and their evolution.<br>
+- 📫 How to reach me: ankanapari2023@gmail.com<br>
+- 😄 Pronouns: She/Her<br>
+
 
 ## Languages and Tools:
 - <div align="center">
