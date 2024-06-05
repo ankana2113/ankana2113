@@ -6,6 +6,8 @@
 - 📫 How to reach me: ankanapari2023@gmail.com
 - 😄 Pronouns: She/Her
 
+- <img src="https://github-readme-stats.vercel.app/api?username=ankana2113&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="ankana2113's GitHub Stats" />
+
 
 
 <!---
