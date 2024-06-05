@@ -5,7 +5,7 @@
 - 🌱 Currently an upcoming 2nd year Undergraduate student in the Deparment of Mathematics in IIT Kharagpur in the branch of Mathematics and Computing.<br>
 - 💞️ Looking to collaborate on a variety of open source, related projects, connect with some cool people and have fun along the way.<br>
 - 🌱 At the moment I'm researching on Neural Networks and their evolution.<br>
-- 📫 How to reach me:<b>ankanapari2023@gmail.com</b> <br>
+- 📫 How to reach me: <b>ankanapari2023@gmail.com</b> <br>
 - 😄 Pronouns: She/Her<br>
 
 
