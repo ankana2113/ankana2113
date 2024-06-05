@@ -8,6 +8,13 @@
 <p>📫 How to reach me: <a href="mailto:ankanapari2023@gmail.com">Email me here!</a></p>
 <p>😄 Pronouns: She/Her</p>
 
+## Connect with me:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ankana-pari-737158280">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 ## Languages and Tools:
 - <div align="center">
