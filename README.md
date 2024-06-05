@@ -1,5 +1,5 @@
 -<div align="center">
-	👋 Hi, myself Ankana Pari
+	<h1>👋 Hi, myself Ankana Pari</h1>
  </div>
 -  # <center> 👋 Hi, myself Ankana Pari</center>
 - 👀 I’m interested in Machine Learning, Computational Maths and Algorithms, Blockchain and a lot more!!
