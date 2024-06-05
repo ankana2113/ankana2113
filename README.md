@@ -6,6 +6,7 @@
 - 📫 How to reach me: ankanapari2023@gmail.com
 - 😄 Pronouns: She/Her
 
+## Languages and Tools:
 - <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
@@ -27,6 +28,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 </div>
 
+# My Stats:
 - <img src="https://github-readme-stats.vercel.app/api?username=ankana2113&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="ankana2113's GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankana2113&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="ankana2113's GitHub Stats" />
