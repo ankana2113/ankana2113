@@ -1,6 +1,13 @@
 <div align="center">
 	<h1>👋 Hi, this is Ankana!</h1>
  </div>
+ <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+	 <p>
+	 <a href="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1">via GIPHY</a></p>href="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1">via GIPHY
+  	</a>
+   </p>
+ </div>
+ 
 <p>👀 Ask me about <b>Machine Learning, Computational Maths and Algorithms, Blockchain and a lot more!!</b></p>
 <p>🌱 Currently an upcoming 2nd year Undergraduate student in the Deparment of Mathematics in IIT Kharagpur in the branch of Mathematics and Computing.</p>
 <p>💞️ Looking to collaborate on a variety of open source, related projects, connect with some cool people and have fun along the way.</p>
