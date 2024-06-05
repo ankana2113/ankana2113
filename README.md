@@ -15,7 +15,8 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=ankana2113&style=flat-square&color=blue" alt=""/>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=ankana2113&style=flat-square&color=blue" alt=""/> -->
 
 
 ## Languages and Tools:
@@ -46,6 +47,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankana2113&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="ankana2113's GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankana2113&theme=nightowl&hide_border=true" alt="ankana2113's GitHub Stats" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankana2113&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 ankana2113/ankana2113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
