@@ -15,7 +15,7 @@
   </a>
 </div>
 
-https://komarev.com/ghpvc/?username=ankana2113
+<img src="https://komarev.com/ghpvc/?username=ankana2113&style=flat-square&color=blue" alt=""/>
 
 
 ## Languages and Tools:
