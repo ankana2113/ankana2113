@@ -8,7 +8,9 @@
 
 - <img src="https://github-readme-stats.vercel.app/api?username=ankana2113&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="ankana2113's GitHub Stats" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankana2113&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="ankana2113's GitHub Stats" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankana2113&theme=nightowl&hide_border=true" alt="ankana2113's GitHub Stats" />
 
 <!---
 ankana2113/ankana2113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
