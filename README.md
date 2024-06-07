@@ -49,6 +49,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankana2113&theme=nightowl&hide_border=true" alt="ankana2113's GitHub Stats" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankana2113&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!---
 ankana2113/ankana2113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
