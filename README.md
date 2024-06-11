@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>👋 Hey, this is Ankana!</h1>
+	<h1>👋 HI, this is Ankana!</h1>
  </div>
  
 <p>👀 Ask me about <b>Machine Learning, Computational Maths and Algorithms, Blockchain and a lot more!!</b></p>
