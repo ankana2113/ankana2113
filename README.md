@@ -7,6 +7,7 @@
 <p>💞️ Looking to collaborate on a variety of open source, related projects, connect with some cool people and have fun along the way.</p>
 <p>🌱 At the moment I'm researching on Neural Networks and their evolution.</p>
 <p>📫 How to reach me: <a href="mailto:ankanapari2023@gmail.com">Email me here!</a></p>
+<p>📫 Here's my resume: <a href = "https://drive.google.com/file/d/1RzwbKfcjhW0tr6RfFsHmgjPkhncdYcVp/view?usp=sharing"></a></p>
 <p>😄 Pronouns: She/Her</p>
 
 ## Connect with me:
