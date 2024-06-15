@@ -17,6 +17,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <i class="gsicon-twitter"></i>
   </a>
+  <a href="https://www.facebook.com/share/JWxAzWQEFHtaUz6n/?mibextid=qi2Omg">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/facebook.png" alt="Facebook" title="Facebook" width="25" height="25" />
+  </a>
 </div>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=ankana2113&style=flat-square&color=blue" alt=""/> -->
