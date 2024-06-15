@@ -15,6 +15,7 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/ankana-pari-737158280">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <i class="gsicon-twitter"></i>
   </a>
 </div>
 
