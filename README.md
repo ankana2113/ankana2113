@@ -22,8 +22,8 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=ankana2113&style=flat-square&color=blue" alt=""/> -->
 
 
-## Languages and Tools:
-- <div align="center">
+## Languages, Frameworks, Libraries and Tools:
+<!--<div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -42,10 +42,18 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
-</div>
+</div> -->
+
+//[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pythonselenium,sklearn,tensorflow,keras,git,github,latex,js,ts,html,css,nodejs,figma,canva,react,arduino,c,emacs,matlab,mysql&theme=dark" />
+  </a>
+</p>
 
 # My Stats:
-- <img src="https://github-readme-stats.vercel.app/api?username=ankana2113&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="ankana2113's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ankana2113&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="ankana2113's GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankana2113&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="ankana2113's GitHub Stats" />
 
