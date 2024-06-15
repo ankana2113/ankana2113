@@ -13,8 +13,12 @@
 
 ## Connect with me:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ankana-pari-737158280">
+  <!--<a href="https://www.linkedin.com/in/ankana-pari-737158280">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <i class="gsicon-twitter"></i>
+  </a>-->
+   <a href="https://www.linkedin.com/in/ankana-pari-737158280">
+    <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="LinkedIn Badge"/>
     <i class="gsicon-twitter"></i>
   </a>
   <a href="https://www.facebook.com/share/JWxAzWQEFHtaUz6n/?mibextid=qi2Omg">
