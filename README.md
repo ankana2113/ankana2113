@@ -42,11 +42,9 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
-	<p align="center">
-		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,latex,ts,arduino,emacs,mysql&theme=dark" />
-		</a>
-	</p>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,latex,ts,arduino,emacs,mysql&theme=dark" />
+	</a>
 </div>
 
 
