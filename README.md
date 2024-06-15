@@ -24,6 +24,9 @@
   <a href="https://www.facebook.com/share/JWxAzWQEFHtaUz6n/?mibextid=qi2Omg">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/65px/facebook.png" alt="Facebook" title="Facebook" width="50" height="50" />
   </a>
+  <!--<a href="https://www.facebook.com/share/JWxAzWQEFHtaUz6n/?mibextid=qi2Omg">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/65px/discord.png" alt="Discord" title="Discord" width="50" height="50" />
+  </a>-->
 </div>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=ankana2113&style=flat-square&color=blue" alt=""/> -->
