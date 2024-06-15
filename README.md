@@ -44,11 +44,9 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 </div> -->
 
-//[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pythonselenium,sklearn,tensorflow,keras,git,github,latex,js,ts,html,css,nodejs,figma,canva,react,arduino,c,emacs,matlab,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,selenium,sklearn,tensorflow,keras,git,github,latex,js,ts,html,css,nodejs,figma,canva,react,arduino,c,emacs,matlab,mysql&theme=dark" />
   </a>
 </p>
 
