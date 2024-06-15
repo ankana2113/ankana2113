@@ -22,7 +22,7 @@
     <i class="gsicon-twitter"></i>
   </a>
   <a href="https://www.facebook.com/share/JWxAzWQEFHtaUz6n/?mibextid=qi2Omg">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/facebook.png" alt="Facebook" title="Facebook" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/60px/facebook.png" alt="Facebook" title="Facebook" width="25" height="25" />
   </a>
 </div>
 
