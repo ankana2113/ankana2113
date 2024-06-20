@@ -8,7 +8,7 @@
 <p>🌱 At the moment I'm researching on Neural Networks and their evolution.</p>
 <p>🌱 At the moment I'm learning Flask, React and Express.js.</p>
 <p>📫 How to reach me: <a href="mailto:ankanapari2023@gmail.com">Email me here!</a></p>
-<p>📫 Here's my resume: <a href = "https://drive.google.com/file/d/1RzwbKfcjhW0tr6RfFsHmgjPkhncdYcVp/view?usp=sharing">CV1</a>
+<p>📫 Here's my resume: <a href = "https://drive.google.com/file/d/1T6g3lBFPJG86e5SZ6ETPRv9jwYN6qRnt/view?usp=sharing">CV1</a>
 <a href = "https://drive.google.com/file/d/1ylPOBS9LNYLKo0HvyMbZ7nUc1efnr2b7/view?usp=sharing">CV2</a>
 <a href="https://drive.google.com/file/d/1yELl04v9hIPzwuN3CzCvCnWn2XZpX3-R/view?usp=sharing">CV3(Latex)</a></p>
 <p>😄 Pronouns: She/Her</p>
