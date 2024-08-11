@@ -3,7 +3,7 @@
  </div>
  
 <p>👀 Ask me about <b>Machine Learning, Computational Maths and Algorithms, Blockchain and a lot more!!</b></p>
-<p>🌱 Currently an upcoming 2nd year Undergraduate student in the Deparment of Mathematics in IIT Kharagpur in the branch of Mathematics and Computing.</p>
+<p>🌱 Currently an upcoming 2nd year Undergraduate student in the Deparment of Mathematics at IIT Kharagpur majoring in Mathematics and Computing.</p>
 <p>💞️ Looking to collaborate on a variety of open source, related projects, connect with some cool people and have fun along the way.</p>
 <p>🌱 At the moment I'm learning Flask, React and Express.js, Solidity and Blockchain Development.</p>
 <p>📫 How to reach me: <a href="mailto:ankanapari2023@gmail.com">Email me here!</a></p>
@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="LinkedIn Badge"/>
     <i class="gsicon-twitter"></i>
   </a>
-  <a href="https://www.facebook.com/share/JWxAzWQEFHtaUz6n/?mibextid=qi2Omg">
+  <a href="https://www.facebook.com/share/49rcsmcb6otw8iDt/?mibextid=qi2Omg">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/65px/facebook.png" alt="Facebook" title="Facebook" width="50" height="50" />
   </a>
   <!--<a href="https://www.facebook.com/share/JWxAzWQEFHtaUz6n/?mibextid=qi2Omg">
