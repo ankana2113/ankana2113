@@ -3,7 +3,7 @@
  </div>
  
 <p>👀 Ask me about <b>Machine Learning, Computational Maths and Algorithms, Blockchain and a lot more!!</b></p>
-<p>🌱 Currently an upcoming 2nd year Undergraduate student in the Deparment of Mathematics at IIT Kharagpur majoring in Mathematics and Computing.</p>
+<p>🌱 Currently a 2nd year Undergraduate student in the Deparment of Mathematics at IIT Kharagpur majoring in Mathematics and Computing.</p>
 <p>💞️ Looking to collaborate on a variety of open source, related projects, connect with some cool people and have fun along the way.</p>
 <p>🌱 At the moment I'm learning Flask, React and Express.js, Solidity and Blockchain Development.</p>
 <p>📫 How to reach me: <a href="mailto:ankanapari2023@gmail.com">Email me here!</a></p>
